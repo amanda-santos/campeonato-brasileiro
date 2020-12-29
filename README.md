@@ -66,16 +66,6 @@ npm install
 npm run serve
 ```
 
-**Compiles and minifies for production**
-```
-npm run build
-```
-
-**Lints and fixes files**
-```
-npm run lint
-```
-
 ## 🤔 How to contribute
 
 **Make a fork of this repository**
